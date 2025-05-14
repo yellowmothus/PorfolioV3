@@ -1,0 +1,1 @@
+There should be a bsckground image on the white space above my 'about me' and a sentence, sort of like a 'hero section'. the image was implemented in css and it is not being fetched by github pages. I recommend downloading the files and opening them in your vscode app.
