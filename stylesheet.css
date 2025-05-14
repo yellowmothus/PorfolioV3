@@ -65,7 +65,7 @@ ul img {
 /*SECTION 1 HERO SECTION */
 
 .hero-bg {
-    background-image: url(/Images/Background.gif);
+    background-image: url(Images/Background.gif);
     background-size: cover;
     padding: 0;
     height: 50rem;
